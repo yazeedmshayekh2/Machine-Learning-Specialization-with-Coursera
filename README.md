@@ -1,5 +1,7 @@
 # Machine-Learning-Specialization-with-Coursera
 
+![image](https://github.com/yazeedmshayekh2/Machine-Learning-Specialization-with-Coursera/assets/102586302/3cef8c2a-ab95-43c2-8fd7-9e2a6580c07e)
+
 The Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. This beginner-friendly program will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications. 
 
 This Specialization is taught by Andrew Ng, an AI visionary who has led critical research at Stanford University and groundbreaking work at Google Brain, Baidu, and Landing.AI to advance the AI field.
